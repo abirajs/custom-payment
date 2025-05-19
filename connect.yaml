@@ -10,7 +10,7 @@ deployAs:
     configuration:
       standardConfiguration:
         - key: CTP_PROJECT_KEY
-          description: "commercetools project key"
+          description: "commercetools project key description"
           required: true
         - key: CTP_CLIENT_ID
           description: "commercetools client ID with required scopes"
